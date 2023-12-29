@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Globo Sudeste",Globo SP HD
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/GLOBO.png" group-title="Canais | Abertos",Globo SP HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289884
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN HD²
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/209
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN2 HD²
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/214
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN3 HD²
+#EXTINF:-1 tvg-id="ESPN 3 HD" tvg-name="ESPN3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN3 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/219
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN4 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN4 HD²
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN4 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN4 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra² HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN Extra² HD
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN Extra HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Canais | Esportes",ESPN Extra HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/229
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD²
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" group-title="Canais | Filmes & Series",AMC HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/670
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV FHD²
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SporTV FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV FHD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/52090
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SPORTV HD²
+#EXTINF:-1 tvg-id="SporTV HD" tvg-name="SPORTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/548
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 HD²
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV 2 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/553
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV  2 SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV  2 SD²
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV  2 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV  2 SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118704
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 HD²
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV 3 HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/558
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 SD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 3 SD²
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3 SD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | Esportes",SporTV 3 SD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118706
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Novelas  HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" group-title="Canais | Filmes & Series",TNT Novelas  HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/264556
