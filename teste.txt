@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cine canal hd" tvg-name="Cine Canal HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINECANAL.png" group-title="Canais | Filmes & Series",Cine Canal HD
+#EXTINF:-1 tvg-id="cinecanal hd" tvg-name="Cine Canal HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINECANAL.png" group-title="Canais | Filmes & Series",Cine Canal HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/601
-#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais | Variedades",MTV HD
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MTV.png" group-title="Canais | Variedades",MTV HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2503
